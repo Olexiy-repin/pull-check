@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["document.body.insertAdjacentHTML(\n  'beforeend',\n  '<a><img src=\"./img/vite-logo.png\" /></a>'\n);\n"],"names":[],"mappings":"0uBAAA,SAAS,KAAK,mBACZ,YACA,0CACF"}
