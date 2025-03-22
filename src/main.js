@@ -1,4 +1,6 @@
+import imgPath from './img/vite-logo.png';
+
 document.body.insertAdjacentHTML(
   'beforeend',
-  '<a><img src="/img/vite-logo.png" /></a>'
+  `<a><img src="${imgPath}" /></a>`
 );
